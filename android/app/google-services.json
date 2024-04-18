@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220865278044",
+    "project_id": "bidder-92886",
+    "storage_bucket": "bidder-92886.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220865278044:android:21bbdaa60681d42c59f699",
+        "android_client_info": {
+          "package_name": "com.example.bidder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSIFvGVYAm2-vrlyk5DoR6Yeq_-jSRa0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
